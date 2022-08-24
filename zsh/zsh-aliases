@@ -1,4 +1,0 @@
-#!/bin/bash
-
-alias forzaquattro='/usr/local/bin/bashscripts/./zeroed'
-alias beacon='/usr/local/bin/bashscripts/./valuebin'
